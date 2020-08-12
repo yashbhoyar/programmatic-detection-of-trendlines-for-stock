@@ -1,1 +1,1 @@
-# programmatic-detection-of-trendlines-for-stocksline-for-financial-markets-
+
